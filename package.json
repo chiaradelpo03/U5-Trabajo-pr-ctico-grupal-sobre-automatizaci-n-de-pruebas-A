@@ -1,0 +1,13 @@
+{
+  "name": "tp-testing-ahorcado",
+  "version": "1.0.0",
+  "description": "Trabajo Práctico: Pruebas Automatizadas (Tablas de Decisión y Valores Límite) sobre el software Ahorcado.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.8"
+  }
+}
